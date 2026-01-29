@@ -147,9 +147,6 @@ System Design        ████████░░░░░░░░░░░�
 
 <br/>
 
-<div align="center">
-  <img src="https://github.com/Aadarsh301911/Aadarsh301911/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 <br/>
 
@@ -172,8 +169,6 @@ If you like my work, consider giving a ⭐ to my repositories!
 **"Code is like humor. When you have to explain it, it's bad!" – Cory House** 
 
 <br/>
-
-![Visitor Count](https://profile-counter.glitch.me/Aadarsh301911/count.svg)
 
 </div>
 
