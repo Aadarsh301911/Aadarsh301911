@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aadarsh%20Kumar&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aadarsh&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 </div>
 
 <div align="center">
@@ -79,10 +79,6 @@ System Design        ████████░░░░░░░░░░░�
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aadarsh301911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aadarsh301911&theme=tokyonight&hide_border=true" />
-</div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarsh301911&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
@@ -91,9 +87,7 @@ System Design        ████████░░░░░░░░░░░�
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aadarsh301911&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
+
 
 ## 🎯 What I'm Up To
 
@@ -169,16 +163,6 @@ System Design        ████████░░░░░░░░░░░�
 
 <br/>
 
-## 🔥 GitHub Contribution Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aadarsh301911&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&ring=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="800"/>
-</div>
-
----
-
-<div align="center">
-  
 ### 💖 Show Some Love!
 
 If you like my work, consider giving a ⭐ to my repositories!
