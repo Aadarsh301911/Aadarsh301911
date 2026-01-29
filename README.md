@@ -123,7 +123,7 @@ System Design        ████████░░░░░░░░░░░�
   </td>
   <td align="center" width="50%">
     
-### 🎓 Goals for 2025
+### 🎓 Goals for 2026
 - Land an amazing tech internship
 - Build 5+ production-ready projects
 - Master Data Structures & Algorithms
